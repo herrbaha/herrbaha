@@ -29,12 +29,9 @@ My name is <img src="-Bahadir Inanc-blue.svg" alt="Name"/> and I am a frontend w
 <p>
    <a href="https://www.linkedin.com/in/bahadir-inanc-4a654080/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/bahainanc">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  <a style={{width:20px, height:20px}} href="https://www.xing.com/profile/Bahadir_Inanc2/cv"><img alt="xing"  src="https://cdn4.iconfinder.com/data/icons/bettericons/354/xing-circle-256.png" />
   </a>
-  <a href="https://www.instagram.com/baha_i/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
+ 
  
 </p>
 
