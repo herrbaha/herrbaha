@@ -1,6 +1,6 @@
 ### Hi there and welcome to my GitHub page 👋
 
-My name is Bahadir Inanc and I am a frontend web developer from Lüneburg, Germany. I do a lot of things, and some of them you may even find interesting. 🤞
+My name is <img src="-Bahadir Inanc-blue.svg" alt="Name"/> and I am a frontend web developer from Lüneburg, Germany. I do a lot of things, and some of them you may even find interesting. 🤞
 
 ---
 
