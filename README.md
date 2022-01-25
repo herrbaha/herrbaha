@@ -1,6 +1,6 @@
 ### Hi there and welcome to my GitHub page 👋
 
-My **name** is <img src="-Bahadir Inanc-blue.svg" alt="Name"/> and I am a __frontend web developer__ from *Lüneburg*, Germany. I do a lot of things, and some of them you may even find interesting. 🤞
+My name is <img src="-Bahadir Inanc-blue.svg" alt="Name"/> and I am a frontend web developer from Lüneburg, Germany. I do a lot of things, and some of them you may even find interesting. 🤞
 
 ---
 
@@ -17,7 +17,7 @@ My **name** is <img src="-Bahadir Inanc-blue.svg" alt="Name"/> and I am a __fron
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-239120?logo=MongoDB&logoColor=white&style=for-the-badge" />
  </p>
 
-- I’m currently (and constantly) working on my <a href="https://github.com/herrbaha">Github page</a>. 
+- I’m currently (and constantly) working on my [Github Page](https://github.com/herrbaha). 
 - I do some of my projects alone and some with a group. If you wish, you can see them on my github page.
 
 ---
