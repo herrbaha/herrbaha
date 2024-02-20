@@ -21,6 +21,19 @@ My name is ᗷᗩᕼᗩᗪᎥᖇ Ꭵᑎᗩᑎᑕ and I am a frontend web develop
 - I do some of my projects alone and some with a group. If you wish, you can see them on my github page.
 
 ---
+##  <h3 align="center">📊 My Github Stats</h3>
+<p align="center">
+  <br/>
+   <a href="https://github.com/fatihyanik/github-readme-stats"><img alt="Fatih Yanik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fatihyanik&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=151515" /></a>
+  <a href="https://github.com/fatihyanik/github-readme-stats"><img alt="Murat Fatih Yanik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihyanik&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=151515" /></a>
+   
+   
+    
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
+
+---
 
 ### Send me a message!
 
