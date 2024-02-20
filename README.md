@@ -24,8 +24,8 @@ My name is ᗷᗩᕼᗩᗪᎥᖇ Ꭵᑎᗩᑎᑕ and I am a frontend web develop
 ##  <h3 align="center">📊 My Github Stats</h3>
 <p align="center">
   <br/>
-   <a href="https://github.com/fatihyanik/github-readme-stats"><img alt="Fatih Yanik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fatihyanik&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=151515" /></a>
-  <a href="https://github.com/fatihyanik/github-readme-stats"><img alt="Murat Fatih Yanik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihyanik&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=151515" /></a>
+   <a href="https://github.com/herrbaha/github-readme-stats"><img alt="Bahadir Inanc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=herrbaha&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=151515" /></a>
+  <a href="https://github.com/herrbaha/github-readme-stats"><img alt="Bahadir Inanc's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herrbaha&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=151515" /></a>
    
    
     
