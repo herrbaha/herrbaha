@@ -20,18 +20,6 @@ My name is ᗷᗩᕼᗩᗪᎥᖇ Ꭵᑎᗩᑎᑕ and I am a frontend web develop
 - I’m currently (and constantly) working on my [Github Page](https://github.com/herrbaha). 
 - I do some of my projects alone and some with a group. If you wish, you can see them on my github page.
 
----
-##  <h3 align="center">📊 My Github Stats</h3>
-<p align="center">
-  <br/>
-   <a href="https://github.com/herrbaha/github-readme-stats"><img alt="Bahadir Inanc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=herrbaha&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=151515" /></a>
-  <a href="https://github.com/herrbaha/github-readme-stats"><img alt="Bahadir Inanc's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herrbaha&langs_count=8&count_private=true&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=151515" /></a>
-   
-   
-    
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
 
 ---
 
