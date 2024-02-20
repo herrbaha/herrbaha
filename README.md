@@ -37,8 +37,3 @@ My name is ᗷᗩᕼᗩᗪᎥᖇ Ꭵᑎᗩᑎᑕ and I am a frontend web develop
  
 </p>
 
----
-
-### Github stats
-
-[![baha's GitHub stats](https://github-readme-stats.vercel.app/api?username=herrbaha)](https://github.com/herrbaha/github-readme-stats)
